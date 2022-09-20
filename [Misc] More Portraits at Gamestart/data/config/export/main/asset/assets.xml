@@ -1,0 +1,397 @@
+<ModOps>
+
+	<ModOp Type="addnextSibling" GUID="1000129">
+		<Asset>
+			<Template>Portrait</Template>
+			<Values>
+				<Portrait>
+					<PortraitName>176</PortraitName>
+					<PortraitColor>-3623806</PortraitColor>
+				</Portrait>
+				<Standard>
+					<GUID>1999100000</GUID>
+					<Name>campaign_character_10_investor_black</Name>
+					<IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_10.png</IconFilename>
+				</Standard>
+				<Mesh />
+				<Object>
+					<Variations>
+						<Item>
+							<Filename>data/graphics/portraits/narrative/campaign_portrait_10/campaign_portrait_10.cfg</Filename>
+						</Item>
+					</Variations>
+				</Object>
+				<Locked>
+					<DefaultLockedState>1</DefaultLockedState>
+					<VisibleWhenLocked>1</VisibleWhenLocked>
+				</Locked>
+			</Values>
+		</Asset>
+	</ModOp>
+
+	<ModOp Type="replace" GUID="101306" Path="/Values/Standard">
+		<Standard>
+			<GUID>101306</GUID>
+			<Name>campaign_character_08_cousin_female</Name>
+			<IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_08.png</IconFilename>
+		</Standard>
+	</ModOp>
+
+	<ModOp Type="replace" GUID="102480" Path="/Values/Standard">
+		<Standard>
+			<GUID>102480</GUID>
+			<Name>advisor_01 (Hannah Goode Black Dress)</Name>
+			<IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_12.png</IconFilename>
+		</Standard>
+	</ModOp>
+
+	<ModOp Type="replace" GUID="137936" Path="/Values/Locked">
+		<Locked>
+			<DefaultLockedState>1</DefaultLockedState>
+			<VisibleWhenLocked>1</VisibleWhenLocked>
+		</Locked>
+	</ModOp>
+
+	<ModOp Type="replace" GUID="500769" Path="/Values/CreateGameScene/Portraits">
+		<Portraits>
+			<Item>
+				<Portrait>100530</Portrait>				<!-- Bente -->
+			</Item>
+			<Item>
+				<Portrait>100663</Portrait>				<!-- Quing -->
+			</Item>
+			<Item>
+				<Portrait>100664</Portrait>				<!-- Willi -->
+			</Item>
+			<Item>
+				<Portrait>110670</Portrait>				<!-- Hugo -->
+			</Item>
+			<Item>
+				<Portrait>100665</Portrait>				<!-- Smith -->
+			</Item>
+			<Item>
+				<Portrait>100666</Portrait>				<!-- Beryl -->
+			</Item>
+			<Item>
+				<Portrait>100667</Portrait>				<!-- Gasparov -->
+			</Item>
+			<Item>
+				<Portrait>100532</Portrait>				<!-- Malching -->
+			</Item>
+			<Item>
+				<Portrait>100531</Portrait>				<!-- Graves -->
+			</Item>
+			<Item>
+				<Portrait>100674</Portrait>				<!-- Admiral -->
+			</Item>
+			<Item>
+				<Portrait>100587</Portrait>				<!-- Hunt -->
+			</Item>
+			<Item>
+				<Portrait>100505</Portrait>				<!-- Farmer House -->
+			</Item>
+			<Item>
+				<Portrait>101825</Portrait>				<!-- Warmer Work -->
+			</Item>
+			<Item>
+				<Portrait>101306</Portrait>				<!-- Farmer Work Green -->
+			</Item>
+			<Item>
+				<Portrait>1000166</Portrait>				<!-- Worker House -->
+			</Item>
+			<Item>
+				<Portrait>101826</Portrait>				<!-- Worker Work -->
+			</Item>
+			<Item>
+				<Portrait>101138</Portrait>				<!-- Worker Prisoner -->
+			</Item>
+			<Item>
+				<Portrait>101307</Portrait>				<!-- Worker Deserter -->
+			</Item>
+			<Item>
+				<Portrait>100507</Portrait>				<!-- Artisan House -->
+			</Item>
+			<Item>
+				<Portrait>101827</Portrait>				<!-- Artisan Work -->
+			</Item>
+			<Item>
+				<Portrait>100508</Portrait>				<!-- Ingi House -->
+			</Item>
+			<Item>
+				<Portrait>101828</Portrait>				<!-- Ingi Work -->
+			</Item>
+			<Item>
+				<Portrait>100509</Portrait>				<!-- Investor -->
+			</Item>
+			<Item>
+				<Portrait>1999100000</Portrait>				<!-- Investor Black -->
+			</Item>
+			<Item>
+				<Portrait>135684</Portrait>				<!-- Donny -->
+			</Item>
+			<Item>
+				<Portrait>100675</Portrait>				<!-- Tourist Yellow -->
+			</Item>
+			<Item>
+				<Portrait>132764</Portrait>				<!-- Tourist Green -->
+			</Item>
+			<Item>
+				<Portrait>101819</Portrait>				<!-- Jornalero House -->
+			</Item>
+			<Item>
+				<Portrait>101822</Portrait>				<!-- Jornalero Work -->
+			</Item>
+			<Item>
+				<Portrait>101820</Portrait>				<!-- Obrero House -->
+			</Item>
+			<Item>
+				<Portrait>101823</Portrait>				<!-- Obrero Work -->
+			</Item>
+			<Item>
+				<Portrait>137936</Portrait>				<!-- Yaosca Rodriguez -->
+			</Item>
+			<Item>
+				<Portrait>112794</Portrait>				<!-- Entdecker -->
+			</Item>
+			<Item>
+				<Portrait>112796</Portrait>				<!-- Techniker -->
+			</Item>
+			<Item>
+				<Portrait>114620</Portrait>				<!-- Hirte -->
+			</Item>
+			<Item>
+				<Portrait>122414</Portrait>				<!-- Enbesa Hirte Rot -->
+			</Item>
+			<Item>
+				<Portrait>122416</Portrait>				<!-- Enbesa Hirte Gelb -->
+			</Item>
+			<Item>
+				<Portrait>114622</Portrait>				<!-- Älteste -->
+			</Item>
+			<Item>
+				<Portrait>122415</Portrait>				<!-- Enbesa Älteste Grün -->
+			</Item>
+			<Item>
+				<Portrait>118732</Portrait>				<!-- Gelehrte -->
+			</Item>
+			<Item>
+				<Portrait>100669</Portrait>				<!-- Anne Harlow -->
+			</Item>
+			<Item>
+				<Portrait>100670</Portrait>				<!-- La Fortune -->
+			</Item>
+			<Item>
+				<Portrait>100589</Portrait>				<!-- Blake -->
+			</Item>
+			<Item>
+				<Portrait>100671</Portrait>				<!-- Sarmento -->
+			</Item>
+			<Item>
+				<Portrait>100631</Portrait>				<!-- Eli -->
+			</Item>
+			<Item>
+				<Portrait>100673</Portrait>				<!-- Kahina -->
+			</Item>
+			<Item>
+				<Portrait>100672</Portrait>				<!-- Old Nate -->
+			</Item>
+			<Item>
+				<Portrait>101019</Portrait>				<!-- Inuit Trader -->
+			</Item>
+			<Item>
+				<Portrait>120250</Portrait>				<!-- Ketema -->
+			</Item>
+			<Item>
+				<Portrait>100460</Portrait>				<!-- Captain -->
+			</Item>
+			<Item>
+				<Portrait>114207</Portrait>				<!-- Missing Captain -->
+			</Item>
+			<Item>
+				<Portrait>132104</Portrait>				<!-- Tobias -->
+			</Item>
+			<Item>
+				<Portrait>102253</Portrait>				<!-- White Captain -->
+			</Item>
+			<Item>
+				<Portrait>1000129</Portrait>				<!-- Hannah Goode -->
+			</Item>
+			<Item>
+				<Portrait>102480</Portrait>				<!-- Hannah Goode Black Dress -->
+			</Item>
+			<Item>
+				<Portrait>1000130</Portrait>				<!-- Aarhant -->
+			</Item>
+			<Item>
+				<Portrait>100588</Portrait>				<!-- Uncle Edvard -->
+			</Item>
+			<Item>
+				<Portrait>101300</Portrait>				<!-- Pyrophorier Rot -->
+			</Item>
+			<Item>
+				<Portrait>101301</Portrait>				<!-- Pyrophorier Silber -->
+			</Item>
+			<Item>
+				<Portrait>101302</Portrait>				<!-- Pyrophorier Gold -->
+			</Item>
+			<Item>
+				<Portrait>101894</Portrait>				<!-- General Enemy -->
+			</Item>
+			<Item>
+				<Portrait>100676</Portrait>				<!-- Editor -->
+			</Item>
+			<Item>
+				<Portrait>100668</Portrait>				<!-- Queen -->
+			</Item>
+			<Item>
+				<Portrait>112118</Portrait>				<!-- Vasco Oliveira -->
+			</Item>
+			<Item>
+				<Portrait>114213</Portrait>				<!-- Lady Jane -->
+			</Item>
+			<Item>
+				<Portrait>120249</Portrait>				<!-- Biniam -->
+			</Item>
+			<Item>
+				<Portrait>1363</Portrait>				<!-- Paloma Valente -->
+			</Item>
+
+		</Portraits>
+	</ModOp>
+
+	<ModOp Type="addnextSibling" GUID="143014">
+		<Asset>
+			<Template>FeatureUnlock</Template>
+			<Values>
+				<Standard>
+					<GUID>1999100010</GUID>
+					<Name>More_Portraits_Free</Name>
+				</Standard>
+				<Locked />
+				<Trigger>
+					<TriggerCondition>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<Condition />
+							<ConditionAlwaysTrue />
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>101825</Asset>												<!-- Farmer Work -->
+											</Item>
+											<Item>
+												<Asset>101306</Asset>												<!-- Farmer Work Green -->
+											</Item>
+											<Item>
+												<Asset>101826</Asset>												<!-- Worker Work -->
+											</Item>
+											<Item>
+												<Asset>101307</Asset>												<!-- Worker Deserter -->
+											</Item>
+											<Item>
+												<Asset>101827</Asset>												<!-- Artisan Work -->
+											</Item>
+											<Item>
+												<Asset>101828</Asset>												<!-- Ingi Work -->
+											</Item>
+											<Item>
+												<Asset>1999100000</Asset>												<!-- Investor Black -->
+											</Item>
+											<Item>
+												<Asset>132764</Asset>												<!-- Tourist Green -->
+											</Item>
+											<Item>
+												<Asset>101819</Asset>												<!-- Jornalero House -->
+											</Item>
+											<Item>
+												<Asset>101822</Asset>												<!-- Jornalero Work -->
+											</Item>
+											<Item>
+												<Asset>101820</Asset>												<!-- Obrero House -->
+											</Item>
+											<Item>
+												<Asset>100669</Asset>												<!-- Anne Harlow -->
+											</Item>
+											<Item>
+												<Asset>100670</Asset>												<!-- La Fortune -->
+											</Item>
+											<Item>
+												<Asset>102253</Asset>												<!-- White Captain -->
+											</Item>
+											<Item>
+												<Asset>102480</Asset>												<!-- Hannah Goode Black Dress -->
+											</Item>
+											<Item>
+												<Asset>101300</Asset>												<!-- Pyrophorier Rot -->
+											</Item>
+											<Item>
+												<Asset>101302</Asset>												<!-- Pyrophorier Gold -->
+											</Item>
+											<Item>
+												<Asset>101894</Asset>												<!-- General Enemy -->
+											</Item>
+											<Item>
+												<Asset>137936</Asset>												<!-- Yaosca Rodriguez -->
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>FeatureUnlock</Template>
+			<Values>
+				<Standard>
+					<GUID>1999100011</GUID>
+					<Name>Paloma_Portrait_Free</Name>
+				</Standard>
+				<Locked />
+				<Trigger>
+					<TriggerCondition>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<Condition />
+							<ConditionAlwaysTrue />
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>1363</Asset>												<!-- Farmer Work -->
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+	</ModOp>
+
+</ModOps>
