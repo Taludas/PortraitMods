@@ -6,7 +6,7 @@ This is a collection of mods adding more portraits to the game for in-game chara
 
 ## How to use
 
-- Be sure how to use either the [Anno Mod Manager](https://www.nexusmods.com/anno1800/mods/35) or the [Anno Mod Loader](https://github.com/xforce/anno1800-mod-loader) directly.
+- Be sure how to use either the [iModYourAnno Anno Mod Manager](https://github.com/anno-mods/iModYourAnno) or the [Anno Mod Loader](https://github.com/xforce/anno1800-mod-loader) directly.
 - Make sure you always have the latest version of the Anno Mod Loader installed.
 - download the mod archieve from [GitHub releases](https://github.com/Taludas/PortraitMods/releases)
 
@@ -18,6 +18,11 @@ This is a collection of mods adding more portraits to the game for in-game chara
 You can find a gallery of all available portraits [here](https://drive.google.com/drive/folders/1-XlRlsQKTB_DT4ktdhlB0Wpmiet-PWsT?usp=sharing).
 
 ## Changelog
+<details>
+    <summary>Patch Notes Version 1.2</summary>
+
+*  Added Artista Portraits to the available portraits at Game Start after DLC12
+</details>
 <details>
     <summary>Patch Notes Version 1.1</summary>
 

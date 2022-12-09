@@ -238,7 +238,7 @@
     </Item>
   </ModOp>
 
-  <ModOp Type="addnextSibling" GUID="143014">
+  <ModOp Type="addNextSibling" GUID="143014">
     <Asset>
       <Template>FeatureUnlock</Template>
       <Values>

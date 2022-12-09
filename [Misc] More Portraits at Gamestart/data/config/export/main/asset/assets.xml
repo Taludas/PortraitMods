@@ -1,6 +1,6 @@
 <ModOps>
 
-	<ModOp Type="addnextSibling" GUID="1000129">
+	<ModOp Type="addNextSibling" GUID="1000129">
 		<Asset>
 			<Template>Portrait</Template>
 			<Values>
@@ -29,20 +29,12 @@
 		</Asset>
 	</ModOp>
 
-	<ModOp Type="replace" GUID="101306" Path="/Values/Standard">
-		<Standard>
-			<GUID>101306</GUID>
-			<Name>campaign_character_08_cousin_female</Name>
-			<IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_08.png</IconFilename>
-		</Standard>
+	<ModOp Type="replace" GUID="101306" Path="/Values/Standard/IconFilename">
+		<IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_08.png</IconFilename>
 	</ModOp>
 
-	<ModOp Type="replace" GUID="102480" Path="/Values/Standard">
-		<Standard>
-			<GUID>102480</GUID>
-			<Name>advisor_01 (Hannah Goode Black Dress)</Name>
-			<IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_12.png</IconFilename>
-		</Standard>
+	<ModOp Type="replace" GUID="102480" Path="/Values/Standard/IconFilename">
+		<IconFilename>data/ui/2kimages/main/profiles/campaign_portrait_12.png</IconFilename>
 	</ModOp>
 
 	<ModOp Type="replace" GUID="137936" Path="/Values/Locked">
@@ -148,7 +140,10 @@
 				<Portrait>101823</Portrait>				<!-- Obrero Work -->
 			</Item>
 			<Item>
-				<Portrait>137936</Portrait>				<!-- Yaosca Rodriguez -->
+				<Portrait>5796</Portrait>				<!-- Artista House -->
+			</Item>
+			<Item>
+				<Portrait>5797</Portrait>				<!-- Artista Work -->
 			</Item>
 			<Item>
 				<Portrait>112794</Portrait>				<!-- Entdecker -->
@@ -253,13 +248,15 @@
 				<Portrait>120249</Portrait>				<!-- Biniam -->
 			</Item>
 			<Item>
+				<Portrait>137936</Portrait>				<!-- Yaosca Rodriguez -->
+			</Item>
+			<Item>
 				<Portrait>1363</Portrait>				<!-- Paloma Valente -->
 			</Item>
-
 		</Portraits>
 	</ModOp>
 
-	<ModOp Type="addnextSibling" GUID="143014">
+	<ModOp Type="addNextSibling" GUID="143014">
 		<Asset>
 			<Template>FeatureUnlock</Template>
 			<Values>
@@ -379,6 +376,48 @@
 										<UnlockAssets>
 											<Item>
 												<Asset>1363</Asset>												<!-- Farmer Work -->
+											</Item>
+										</UnlockAssets>
+									</ActionUnlockAsset>
+								</Values>
+							</TriggerAction>
+						</Item>
+					</TriggerActions>
+				</Trigger>
+				<TriggerSetup>
+					<UsedBySecondParties>0</UsedBySecondParties>
+				</TriggerSetup>
+			</Values>
+		</Asset>
+		<Asset>
+			<Template>FeatureUnlock</Template>
+			<Values>
+				<Standard>
+					<GUID>1999100013</GUID>
+					<Name>DLC12_Portraits_Free</Name>
+				</Standard>
+				<Locked />
+				<Trigger>
+					<TriggerCondition>
+						<IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+						<Values>
+							<Condition />
+							<ConditionAlwaysTrue />
+						</Values>
+					</TriggerCondition>
+					<TriggerActions>
+						<Item>
+							<TriggerAction>
+								<Template>ActionUnlockAsset</Template>
+								<Values>
+									<Action />
+									<ActionUnlockAsset>
+										<UnlockAssets>
+											<Item>
+												<Asset>5796</Asset>												<!-- Farmer Work -->
+											</Item>
+											<Item>
+												<Asset>5797</Asset>												<!-- Farmer Work -->
 											</Item>
 										</UnlockAssets>
 									</ActionUnlockAsset>
