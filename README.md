@@ -4,11 +4,14 @@
 
 This is a collection of mods adding more portraits to the game for in-game character creation.
 
+If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi (yes, I want to raise my coffee consume to Investor's hight!)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
+
 ## How to use
 
-- Be sure how to use either the [iModYourAnno Anno Mod Manager](https://github.com/anno-mods/iModYourAnno) or the [Anno Mod Loader](https://github.com/xforce/anno1800-mod-loader) directly.
-- Make sure you always have the latest version of the Anno Mod Loader installed.
-- download the mod archieve from [GitHub releases](https://github.com/Taludas/PortraitMods/releases)
+- Either use [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) mod manager or know [how to install mods manually](https://github.com/jakobharder/anno1800-mod-loader#mods).
+- If you download the mod manually, use the archieve from [GitHub releases](https://github.com/Taludas/PortraitMods/releases). Don't download the whole repo!
 
 
 **The activation of the mod can be a little bothersome. If you just start the game with the mod activated, you might find the new portraits locked with 'Unlocked by ""' as a comment on how to get them. What you need to do to unlock them is to load up an existing savegame once. Build a few houses, switch sessions, play for a few minutes. If you come back to the title screen afterwards, you'll find the portraits unlocked and selectable for use.**
