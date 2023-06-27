@@ -18,7 +18,7 @@ If you like this mod and want to support me, feel free to share it with your fri
 
 
 ## Mod Images
-You can find a gallery of all available portraits [here](https://drive.google.com/drive/folders/1-XlRlsQKTB_DT4ktdhlB0Wpmiet-PWsT?usp=sharing).
+You can find a gallery of all available portraits [here](docs/). Note that the Artista Portraits are missing, because these pictures were taken pre-DLC12.
 
 ## Changelog
 <details>
