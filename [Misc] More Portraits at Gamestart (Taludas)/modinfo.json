@@ -1,0 +1,69 @@
+{
+  "Version": "1.2.1",
+  "ModID": "Taludas_MorePortraitsatGamestart",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": "Misc",
+    "English": "Misc",
+    "French": "Misc",
+    "German": "Misc",
+    "Italian": "Misc",
+    "Japanese": "Misc",
+    "Korean": "Misc",
+    "Polish": "Misc",
+    "Russian": "Misc",
+    "Spanish": "Misc",
+    "Taiwanese": "Misc"
+  },
+  "ModName": {
+    "Chinese": "More Portaits at Gamestart (Taludas)",
+    "English": "More Portaits at Gamestart (Taludas)",
+    "French": "More Portaits at Gamestart (Taludas)",
+    "German": "More Portaits at Gamestart (Taludas)",
+    "Italian": "More Portaits at Gamestart (Taludas)",
+    "Japanese": "More Portaits at Gamestart (Taludas)",
+    "Korean": "More Portaits at Gamestart (Taludas)",
+    "Polish": "More Portaits at Gamestart (Taludas)",
+    "Russian": "More Portaits at Gamestart (Taludas)",
+    "Spanish": "More Portaits at Gamestart (Taludas)",
+    "Taiwanese": "More Portaits at Gamestart (Taludas)"
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "With this mod, ALL portraits from Anno 1800 previously not available for selection can now be used by you for character creation.",
+    "French": null,
+    "German": "Mit dieser Mod können nun ALLE Porträts aus Anno 1800, die bisher nicht zur Auswahl standen, von euch zur Charaktererstellung verwendet werden.",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": 
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+    {
+      "DLC": null
+    }
+  ],
+  "CreatorName": "Taludas",
+  "CreatorContact": "https://github.com/Taludas/PortraitMods",
+  "Image": null
+}

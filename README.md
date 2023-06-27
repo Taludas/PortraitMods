@@ -4,7 +4,7 @@
 
 This is a collection of mods adding more portraits to the game for in-game character creation.
 
-If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi (yes, I want to raise my coffee consume to Investor's hight!)
+If you like this mod and want to support me, feel free to share it with your friends. You can also buy me a coffee at Ko-Fi (yes, I want to raise my coffee consume to Investor's height!)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8L558T)
 
@@ -21,6 +21,11 @@ If you like this mod and want to support me, feel free to share it with your fri
 You can find a gallery of all available portraits [here](https://drive.google.com/drive/folders/1-XlRlsQKTB_DT4ktdhlB0Wpmiet-PWsT?usp=sharing).
 
 ## Changelog
+<details>
+    <summary>Patch Notes Version 1.2.1</summary>
+
+*  Reworked Folder name and modinfo.json for consistency with my other mods
+</details>
 <details>
     <summary>Patch Notes Version 1.2</summary>
 

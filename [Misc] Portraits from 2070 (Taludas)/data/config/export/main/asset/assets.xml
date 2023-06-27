@@ -1,0 +1,303 @@
+<ModOps>
+
+  <!-- Rufus Thorne -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait />
+        <Standard>
+          <GUID>1999100001</GUID>
+          <Name>Tycoon_Rufus_Thorne</Name>
+          <IconFilename>data/graphics/ui/rufus_thorne.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/tycoons/rufus_thorne_tycoons/rufus_thorne_tycoons.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Tycoon Leader -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait />
+        <Standard>
+          <GUID>1999100002</GUID>
+          <Name>Tycoon_Leader</Name>
+          <IconFilename>data/graphics/ui/leader_tycoons.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/tycoons/leader_tycoons/leader_tycoons.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Sokow -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait />
+        <Standard>
+          <GUID>1999100003</GUID>
+          <Name>Tycoon_Sokow</Name>
+          <IconFilename>data/graphics/ui/oil_baron.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/tycoons/oil_baron/oil_baron.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Skylar Banes -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait>
+          <IsFemale>1</IsFemale>
+        </Portrait>
+        <Standard>
+          <GUID>1999100004</GUID>
+          <Name>Tycoon_Skylar_Banes</Name>
+          <IconFilename>data/graphics/ui/skylar_banes.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/tycoons/skylar_banes_tycoons/skylar_banes_tycoons.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Seamus Green -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait />
+        <Standard>
+          <GUID>1999100005</GUID>
+          <Name>Ecos_Seamus_Green</Name>
+          <IconFilename>data/graphics/ui/seamus_green.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/ecos/seamus_green_ecos/seamus_green_ecos.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Trenchcoat -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait />
+        <Standard>
+          <GUID>1999100006</GUID>
+          <Name>Third_Party_Trenchcoat</Name>
+          <IconFilename>data/graphics/ui/black_trader.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/third_party/black_trader/black_trader.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Hector -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait />
+        <Standard>
+          <GUID>1999100007</GUID>
+          <Name>Third_Party_Pirate</Name>
+          <IconFilename>data/graphics/ui/pirate.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/third_party/pirate/pirate.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Scorpio -->
+  <ModOp Type="addNextSibling" GUID="114620">
+    <Asset>
+      <Template>Portrait</Template>
+      <Values>
+        <Portrait />
+        <Standard>
+          <GUID>1999100008</GUID>
+          <Name>Third_Party_Pirate02</Name>
+          <IconFilename>data/graphics/ui/pirate02.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/portraits/third_party/pirate02/pirate02.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Locked>
+          <DefaultLockedState>1</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </ModOp>
+
+  <!-- Add to menu and unlock -->
+  <ModOp Type="add" GUID="500769" Path="/Values/CreateGameScene/Portraits">
+    <Item>
+      <Portrait>1999100001</Portrait>
+    </Item>
+    <Item>
+      <Portrait>1999100002</Portrait>
+    </Item>
+    <Item>
+      <Portrait>1999100003</Portrait>
+    </Item>
+    <Item>
+      <Portrait>1999100004</Portrait>
+    </Item>
+    <Item>
+      <Portrait>1999100005</Portrait>
+    </Item>
+    <Item>
+      <Portrait>1999100006</Portrait>
+    </Item>
+    <Item>
+      <Portrait>1999100007</Portrait>
+    </Item>
+    <Item>
+      <Portrait>1999100008</Portrait>
+    </Item>
+  </ModOp>
+
+  <ModOp Type="addNextSibling" GUID="143014">
+    <Asset>
+      <Template>FeatureUnlock</Template>
+      <Values>
+        <Standard>
+          <GUID>1999100009</GUID>
+          <Name>2070_Portraits_Free</Name>
+        </Standard>
+        <Locked />
+        <Trigger>
+          <TriggerCondition>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <Condition />
+              <ConditionAlwaysTrue />
+            </Values>
+          </TriggerCondition>
+          <TriggerActions>
+            <Item>
+              <TriggerAction>
+                <Template>ActionUnlockAsset</Template>
+                <Values>
+                  <Action />
+                  <ActionUnlockAsset>
+                    <UnlockAssets>
+                      <Item>
+                        <Asset>1999100001</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>1999100002</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>1999100003</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>1999100004</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>1999100005</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>1999100006</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>1999100007</Asset>
+                      </Item>
+                      <Item>
+                        <Asset>1999100008</Asset>
+                      </Item>
+                    </UnlockAssets>
+                  </ActionUnlockAsset>
+                </Values>
+              </TriggerAction>
+            </Item>
+          </TriggerActions>
+        </Trigger>
+        <TriggerSetup>
+          <UsedBySecondParties>0</UsedBySecondParties>
+        </TriggerSetup>
+      </Values>
+    </Asset>
+  </ModOp>
+</ModOps>
