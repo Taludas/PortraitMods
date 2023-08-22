@@ -10,6 +10,7 @@ If you like this mod and want to support me, feel free to share it with your fri
 
 ## How to use
 
+- Automatic install using the Anno Mod Browser, available from the main menu of your Anno 1800 game.
 - Either use [iModYourAnno](https://github.com/anno-mods/iModYourAnno/releases) mod manager or know [how to install mods manually](https://github.com/jakobharder/anno1800-mod-loader#mods).
 - If you download the mod manually, use the archieve from [GitHub releases](https://github.com/Taludas/PortraitMods/releases). Don't download the whole repo!
 
